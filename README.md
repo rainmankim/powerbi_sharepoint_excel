@@ -1,17 +1,8 @@
 # powerbi_sharepoint_excel
 <img align="right" src="https://user-images.githubusercontent.com/62319355/110085335-efcdb100-7dcb-11eb-9e9b-77f2849154a8.png" width="220" height="80" alt="Excel logo">
-
-
-
-
-##### -------------------------------------------------------------------------------
-
-
-
-
-<img align="left" src="https://user-images.githubusercontent.com/62319355/105784986-d6f40380-5fb4-11eb-95e9-2261360d0120.jpg" width="220" height="80" alt="Tableau Server">
-<img align="right" src="https://user-images.githubusercontent.com/62319355/106690730-48633000-660d-11eb-85b8-129753f1f931.png" width="150" alt="Excel logo">
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
+
+
 
 
 ### tableau_server_and_offline_excel_file_connection
