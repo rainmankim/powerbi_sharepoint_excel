@@ -16,22 +16,11 @@ Contact: rainmankim@gmail.com
 
 
 
-(https://github.com/rainmankim/tableau_server_cloudera_data_extraction)
-
 ```
+In this repository, I am going to show you how to connect PowerBi 
+
+
 Suppose you have main data source extract on Ray's Tableau Server which contains HR details about your colleagues.
-Now, you come across a secret Excel file that containts list of your colleagues who happen to be aliens
-You need to quickly match this Excel file with the data on Ray's Tableau Server to stop alien invasion.
-
-Here are four data joining-blending options.  I am going to show Option 1 through Option 4 one by one.
-
-- (Option 1) Directly JOIN  Main HR Data Extract on Ray's Tableau Server  &  Offline Excel File
-
-- (Option 2) Directly blend Offline Excel File with HR Data Extract on Ray's Tableau Server
-
-- (Option 3) First publish offline Excel File onto Ray's Tableau Server.   Then, blend main HR Data Extract on Ray's Tableau Server  & Alien Data on Ray's Tableau Server
-
-- (Option 4)  First publish offline Excel File onto Ray's Tableau Server.   Then, join HR Data Extract on Ray's Tableau Server  & Alien Data on Ray's Tableau Server
 ```
 
 ### Option 1 Directly JOIN  Main HR Data Extract on Ray's Tableau Server  &  Offline Excel File
