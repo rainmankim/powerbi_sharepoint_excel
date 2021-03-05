@@ -1,4 +1,6 @@
 # powerbi_sharepoint_excel
+<img align="right" src="https://user-images.githubusercontent.com/62319355/110085335-efcdb100-7dcb-11eb-9e9b-77f2849154a8.png" width="150" alt="Excel logo">
+
 
 
 
