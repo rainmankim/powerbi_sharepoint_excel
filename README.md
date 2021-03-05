@@ -12,11 +12,6 @@
 Creator: Ray Kim Dong Hyun
 Contact: rainmankim@gmail.com
 
-* For easier understanding, I am going to call Tableau Server "Ray's Tableau Server".
-
-In my other github repository, I have shown how you can connect Tableau Desktop with Cloudera Hadoop Server
-for data source publishing & connection.
-
 ```
 
 
