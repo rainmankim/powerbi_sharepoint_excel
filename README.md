@@ -27,18 +27,6 @@ I will illustrate this in the following steps.
 
 ```
 
-### Option 1 Directly JOIN  Main HR Data Extract on Ray's Tableau Server  &  Offline Excel File
----> This is simply not allowed. You cannot join with a data table in Ray's Tableau SErver.
-
-### Option 2 Directly blend Offline Excel File with HR Data Extract on Ray's Tableau Server
-#### --> Connect to HR Data Extract on Ray's Tableau Server.    And  also connect to offline Excel file as a "NEW Data source"   
-<img align="center" src="https://user-images.githubusercontent.com/62319355/106698186-456f3c00-661b-11eb-972d-10505f849150.png" alt="tableau_cloudera_connection image">
-
-#### --> Next, go to "Edit Data Relationships" option as shown below                       
-<img align="center" src="https://user-images.githubusercontent.com/62319355/106705361-c54fd300-6628-11eb-9bb3-1b7346f7e9a7.png" alt="tableau_cloudera_connection image">
-
-#### --> Using custom matching, match necessary primary key(s)
-<img align="center" src="https://user-images.githubusercontent.com/62319355/106706466-b5d18980-662a-11eb-81e0-e25e1a92ec05.png" alt="data blend">
 
 
 
